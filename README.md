@@ -1,5 +1,5 @@
 <h2> Hi, I'm Ishwar Sonawane!</h2>
-<img align='right' src="https://github.com/Ishu335/Ishu335/blob/a0a31e43b5cc9395195cbe3e82b43d291f5d6298/output-onlinegiftools.gif" width="360"  style="margin:10px;" >
+<img align='right' src="https://github.com/Ishu335/Ishu335/blob/a0a31e43b5cc9395195cbe3e82b43d291f5d6298/output-onlinegiftools.gif" width="300"  style="margin:10px;" >
 <p><em>Software Enginner at <a href="https://cms.sinhgad.edu/sinhgad_engineering_institutes/saoe/contact-us.aspx">Sinhgad Institutes's</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
