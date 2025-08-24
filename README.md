@@ -7,7 +7,7 @@ Contact Me
 
 📫 Email: 335ishwar@gmail.com
 
-💼 [LinkedIn](https://www.linkedin.com/in/your-username/)
+💼 [LinkedIn](www.linkedin.com/in/ishwar-sonawane-298025260)
 
 
 
