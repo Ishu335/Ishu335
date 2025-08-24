@@ -26,6 +26,8 @@ const Ishu = {
               on react and typescript"
 }
 ```
+![Ishu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishu335&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishu335&layout=compact&theme=tokyonight)
 
  <em><b>I love connecting with different people</b> so if you
  want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
