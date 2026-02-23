@@ -10,7 +10,6 @@
 <p>
   <em>Software Engineer at 
     <a href="https://sinhgad.edu/" target="_blank">Sinhgad Institutes</a>
-    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </em>
 </p>
 
