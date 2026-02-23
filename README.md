@@ -23,16 +23,16 @@
 
 ### 💻 A little more about me  
 
-```javascript
+```
 const Ishu = {
   pronouns: "he" | "him",
-  code: ["Python", "Java", "JavaScript", "HTML", "CSS"],
-  tools: ["Streamlit", "FastAPI", "React", "MongoDB", "MySQL", "Matplotlib", "Plotly"],
+  code: ["Python", "ML", "AI"],
+  tools: ["Streamlit", "PyTorch", "FastAPI", "Django", "MySQL", "Matplotlib", "Sklearn","NumPy"],
   architecture: [
     "Machine Learning Pipelines",
-    "Microservices",
+    "AI -Agents",
     "REST APIs",
-    "Data-Driven Apps",
+    "LLM and NLP",
     "CI/CD Pipelines"
   ],
   techCommunities: {
