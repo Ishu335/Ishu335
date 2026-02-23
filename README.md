@@ -26,11 +26,11 @@
 ```
 const Ishu = {
   pronouns: "he" | "him",
-  code: ["Python", "ML", "AI"],
+  code: ["Python", "AI", "ML"],
   tools: ["Streamlit", "PyTorch", "FastAPI", "Django", "MySQL", "Matplotlib", "Sklearn","NumPy"],
   architecture: [
     "Machine Learning Pipelines",
-    "AI -Agents",
+    "AI-Agents",
     "REST APIs",
     "LLM and NLP",
     "CI/CD Pipelines"
@@ -39,5 +39,5 @@ const Ishu = {
     contributor: "Open Source Projects",
     mentor: "Peer Learning Groups"
   },
-  challenge: "I am doing the #100DaysOfCode challenge focused on DSA in PYTHON"
+  challenge: "I am focused on AI / ML in PYTHON"
 };
