@@ -23,8 +23,7 @@
 ### 💻 A little more about me  
 
 ```
-const Ishu = {
-  pronouns: "he" | "him",
+const  = {
   code: ["Python", "AI", "ML"],
   tools: ["Streamlit", "PyTorch", "FastAPI", "Django", "MySQL", "Matplotlib", "Sklearn","NumPy"],
   architecture: [
